@@ -1,2 +1,5 @@
-# github-demo
-A simple git workflow
+## github-demo
+#A simple git workflow
+# Introduction
+# Purpose
+
